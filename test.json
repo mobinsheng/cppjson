@@ -1,0 +1,26 @@
+{
+	"menu": "d",
+	"a":"a",
+	"b":"b",
+	"array":["1","2","3",null,{"s":"s","k":"k"},"4"],
+	"obj":
+	{
+		"k":"k",
+		"j":"j",
+		"subobj":
+		{
+			"ss":"SS",
+			"second":
+			{
+				"x":"X"
+			},
+			"HH":"GG"
+		}
+	},
+	"d":{},
+	"NULL":null,
+	"num":1234,
+	"double":1.234,
+	"bool":true
+	
+}
